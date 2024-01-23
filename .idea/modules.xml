@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lakeSide-hotel-demo-server-master/lakeSide-hotel.iml" filepath="$PROJECT_DIR$/lakeSide-hotel-demo-server-master/lakeSide-hotel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lakeSide-hotel-demo-server-master.iml" filepath="$PROJECT_DIR$/.idea/lakeSide-hotel-demo-server-master.iml" />
+    </modules>
+  </component>
+</project>
